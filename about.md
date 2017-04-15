@@ -25,8 +25,8 @@ permalink: /about/
 
 ---
 # contect
-* TEL:15294705728
-* Gmail:[zw97073966@gmail.com](zw97073966@gmail.com)
+* TEL: 15294705728
+* Gmail:<zw97073966@gmail.com>
 * github:<http://github.com/0x024>
 * facebook:[facebook](https://www.facebook.com/wenzhang521)
 * weibo:[GalaxWen](http://weibo.com/miniwenwen)

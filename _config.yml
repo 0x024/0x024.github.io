@@ -1,14 +1,14 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Geek forever
+description: 0x024
+author: wen zhang
 logo: /static/img/avatar.png
 github: https://github.com/0x024
-about: Freelance developer
+about: 一个学焊接工程的geek爱好者
 
 baseurl: "https://0x024.github.io"
 url: "https://0x024.github.io"
 
-disqus_shortname: aboutashu
+disqus_shortname: simplecell
 google_analytics: UA-72862926-1
 
 share:
@@ -17,7 +17,8 @@ share:
 
 
 enableTags: true
-tagarray: []
+tagarray: ["Python","ubuntu","Raspberry","Shadowsocks","Arduino",
+            "Metasploit","C118"]
 
 paginate: 20
 per_page: 20

@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-# 0x024
----
 #  Who am i
 - 张文
 - 一名学习材料科学与控制工程的理工男

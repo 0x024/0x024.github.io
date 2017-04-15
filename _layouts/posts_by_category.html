@@ -25,7 +25,8 @@ layout: default
         {% for post in site.categories[page.categories] %}
         <div class="list-group-item">
             <div class="row-action-primary">
-              <i class="fa fa-sticky-note"></i>
+              <i class="fa fa-tags"> 
+              </i>
             </div>
             <div class="row-content">
             {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -42,7 +43,7 @@ layout: default
             {% endif %}
             <div class="least-content">{{ post.date | date_to_string }}</div>
             <h4 class="list-group-item-heading"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h4>
-            <p class="list-group-item-text">{{ post.content | strip_html | truncatewords: 20 }}</p>
+            <!-- <p class="list-group-item-text">{{ post.content | strip_html | truncatewords: 1 }}</p> -->
             
             </div>
         </div>

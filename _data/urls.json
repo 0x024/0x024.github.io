@@ -15,6 +15,12 @@
     "url": "/projects",
     "icon": "fa-desktop"
   },
+{
+    "text": "Category",
+    "url": "/category/others",
+    "icon": "fa-tags"
+  },
+
   {
     "text": "Resume",
     "url": "/#",
@@ -25,10 +31,5 @@
     "url": "/#",
     "icon": "fa-github"
   },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
-  }
+ 
 ]

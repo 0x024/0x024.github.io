@@ -11,11 +11,10 @@ permalink: /about/
 
 ------
 # Skill
-- Python
-- C
-- Mysql
-- Linux
-- OpenCV
+[![](https://img.shields.io/badge/Python-2.7.*-brightgreen.svg)]()
+[![](https://img.shields.io/badge/ubuntu-16.04-brightgreen.svg)]()
+[![](https://img.shields.io/badge/Mysql-5.7*-brightgreen.svg)]()
+[![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
 
 ---
 # Projects

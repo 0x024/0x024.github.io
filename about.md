@@ -15,7 +15,7 @@ permalink: /about/
 
 
 
-|  [![](https://img.shields.io/badge/Python-2.7.*-brightgreen.svg)]()    | |      [![](https://img.shields.io/badge/ubuntu-16.04-brightgreen.svg)]() |  |  [![](https://img.shields.io/badge/Mysql-5.7*-brightgreen.svg)]()  | | [![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
+|  [![](https://img.shields.io/badge/Python-2.7.*-brightgreen.svg)]() | | [![](https://img.shields.io/badge/ubuntu-16.04-brightgreen.svg)]() |  |  [![](https://img.shields.io/badge/Mysql-5.7*-brightgreen.svg)]()  | | [![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
 
 
 
@@ -30,11 +30,10 @@ permalink: /about/
 
 ---
 # Contect Me
-| [![](https://img.shields.io/badge/TEL-15294705728-blue.svg)]() | | [![](https://img.shields.io/badge/Github-0x024-blue.svg)](http://github.com/0x024)
-| [![](https://img.shields.io/badge/Facebook-facebook-blue.svg)](https://www.facebook.com/wenzhang521) | | [![](https://img.shields.io/badge/Weibo-weibo-blue.svg)](http://weibo.com/miniwenwen)
+|  [![](https://img.shields.io/badge/TEL-15294705728-blue.svg)]()    | |      [![](https://img.shields.io/badge/Github-0x024-blue.svg)](http://github.com/0x024) | | [![](https://img.shields.io/badge/Facebook-facebook-blue.svg)](https://www.facebook.com/wenzhang521) | | [![](https://img.shields.io/badge/Weibo-weibo-blue.svg)](http://weibo.com/miniwenwen)
 
 
-|[![](https://img.shields.io/badge/Gmail-zw97073966%40gmail.com-blue.svg)]()
+| [![](https://img.shields.io/badge/Gmail-zw97073966%40gmail.com-blue.svg)]()|
 
 
 

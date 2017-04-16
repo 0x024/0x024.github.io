@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![qq](http://123.206.56.205/wp-content/uploads/2017/03/1.png "q")
+
 
 #  Who am i:
 

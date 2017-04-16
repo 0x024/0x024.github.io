@@ -16,7 +16,18 @@ python | ubuntu | Mysql |Opencv
 [![](https://img.shields.io/badge/Python-2.7.*-brightgreen.svg)]()  | [![](https://img.shields.io/badge/ubuntu-16.04-brightgreen.svg)]()  | [![](https://img.shields.io/badge/Mysql-5.7*-brightgreen.svg)]() |[![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
 
 
-
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
 
 
 
@@ -32,7 +43,7 @@ python | ubuntu | Mysql |Opencv
 # Contect Me
 [![](https://img.shields.io/badge/TEL-15294705728-blue.svg)]()
 
-[![](https://img.shields.io/badge/Gmail-zw97073966%40gmail.com-blue.svg)](zw97073966@gmail.com)
+[![](https://img.shields.io/badge/Gmail-zw97073966%40gmail.com-blue.svg)]()
 
 [![](https://img.shields.io/badge/Github-0x024-blue.svg)](http://github.com/0x024)
 

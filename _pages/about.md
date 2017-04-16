@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /pages/about/
 ---
 #  Who am i
 - 张文

@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![qq](http://123.206.56.205/image/preview.gif)
 #  Who am i:
 
 - 张文

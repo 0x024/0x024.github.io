@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "FRT4Freebuf",
-		"image": "frt.png",
+		"image": "frt4freebuf.png",
 		"url": "https://github.com/0x024/FRT4FreeBuf.git",
 		"date": "Jan 2017",
 		"tags": ["python","OpenCV"]

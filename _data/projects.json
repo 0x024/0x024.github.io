@@ -1,14 +1,14 @@
 [
 	{
 		"name": "FRT",
-		"image": "FRT.jpg",
+		"image": "http://123.206.56.205/wp-content/uploads/2017/04/exp.png",
 		"url": "https://github.com/0x024/FRT.git",
 		"date": "Jan 2017",
 		"tags": ["python","OpenCV"]
 	},
 	{
 		"name": "alimemeda",
-		"image": "alimemeda.jpg",
+		"image": "http://image.3001.net/images/20170412/14919729082446.png",
 		"url": "https://github.com/0x024/alimemeda.git",
 		"date": "Jan 2017",
 		"tags": ["python","OpenCV"]

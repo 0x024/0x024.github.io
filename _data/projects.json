@@ -20,6 +20,13 @@
 		"date": "Jan 2017",
 		"tags": ["python","OpenCV"]
 	},
+	{
+		"name": "haust-bug",
+		"image": "haust-bug.png",
+		"url": "https://github.com/0x024/haust-bug.git",
+		"date": "Jan 2017",
+		"tags": ["python","bug"]
+	},
 
 
 ]
